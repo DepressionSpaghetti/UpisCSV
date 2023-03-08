@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpisCSV", "UpisCSV\UpisCSV.csproj", "{EFC56B56-1A45-44B9-A7D3-4F5A919F2EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC56B56-1A45-44B9-A7D3-4F5A919F2EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC56B56-1A45-44B9-A7D3-4F5A919F2EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC56B56-1A45-44B9-A7D3-4F5A919F2EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC56B56-1A45-44B9-A7D3-4F5A919F2EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D58979-A4BF-4F7A-A3C9-C19F65F5DF89}
+	EndGlobalSection
+EndGlobal
